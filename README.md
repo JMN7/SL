@@ -9,6 +9,7 @@ In order to use the SalesLoft API correctly you should follow next steps:
 2.-Add the API URL and the API key to the file like the next example:
 
 API_URL=https://api.salesloft.com/v2/people.json
+
 BEARER_TOKEN=mytoken
 
 If you are having issues with CORS please add the next URL:
